@@ -1,14 +1,14 @@
 # DiscordBot_BotList_server
 Ce project est pour les petit serveur BotList utilisant un robots Discord pour tous gérez ! Disclaimer: Vous deverez adapaté le bot pour votre serveur car il est fais pour fonctionné sur qu'un serveur !
 
-#Comment fonctionne-t'ils ?
+# Comment fonctionne-t'ils ?
 -> Il utilise quick.db (Un service de base de données en sqlite)
  (il stocke les bot des clients, propriétaire du bot clients, prefix des bot des clients, et descriptions des bot des clients !)
  
  -> Le prefix pour l'utilisé est changeable facilement via un fichier. (config.json)
 
 # Développé par Ezermoz ! 
--> Vous pouvez faire ce que vous voulez avec le bot juste ne pas enlevé les credit !
+-> **Vous pouvez faire ce que vous voulez avec le bot juste ne pas enlevé les credit !**
     #antiskid
     
   ```
